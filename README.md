@@ -1,2 +1,2 @@
 # recipe-book
-The web app show s list of ingredients that composes a recipe
+The web app shows a list of ingredients that composes a recipe
